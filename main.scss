@@ -266,6 +266,28 @@ $primary-font: 'Inter', sans-serif;
     
 
 }
+.footer{
+    font-family: Inter;
+    .pp{
+        color: #00000099;
+        display: flex;
+        justify-content: center;
+    }
+    span{
+        color: #FF7967;
+    }
+    .klas{
+        display: flex;
+        justify-content: space-between;
+    }
+    .icanss{
+        display: flex;
+        justify-content: end;
+        gap: 40px;
+        margin-top: -40px;
+    }
+  
+}
 
 
 

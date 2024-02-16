@@ -243,4 +243,26 @@
 }
 .oqilova .imgss .emgs {
   margin-top: 135px;
+}
+
+.footer {
+  font-family: Inter;
+}
+.footer .pp {
+  color: rgba(0, 0, 0, 0.6);
+  display: flex;
+  justify-content: center;
+}
+.footer span {
+  color: #FF7967;
+}
+.footer .klas {
+  display: flex;
+  justify-content: space-between;
+}
+.footer .icanss {
+  display: flex;
+  justify-content: end;
+  gap: 40px;
+  margin-top: -40px;
 }/*# sourceMappingURL=main.css.map */
